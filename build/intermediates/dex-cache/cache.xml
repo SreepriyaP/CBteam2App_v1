@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/asad/AndroidStudioProjects/CBteam2App/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6b5f40fa0fcd7239bb12e0b1b94d67a722a0fc">
+        <dex dex="/home/asad/AndroidStudioProjects/CBteam2App/app/build/intermediates/pre-dexed/debug/backend-android-endpoints_8e3c54a8fda09d552878cffcf15e8a906435b0bb.jar" />
+    </item>
+
+</items>

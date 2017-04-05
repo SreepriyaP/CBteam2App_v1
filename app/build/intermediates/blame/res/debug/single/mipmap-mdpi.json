@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/asad/AndroidStudioProjects/CBteam2App/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/asad/AndroidStudioProjects/CBteam2App/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/asad/AndroidStudioProjects/CBteam2App/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/asad/AndroidStudioProjects/CBteam2App/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
